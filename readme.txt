@@ -3,7 +3,7 @@ Contributors: jmhobbs
 Tags: analytics, live analytics, statistics
 Requires at least: 2.7
 Tested up to: 3.0
-Stable tag: 1.1.0
+Stable tag: 1.2.0
 
 Adds UserPing to your WordPress site!
 
@@ -22,6 +22,10 @@ This section describes how to install the plugin and get it working.
 1. Ensure that your theme calls the wp_footer() function.
 
 == Changelog ==
+
+= 1.2.0 [erh] =
+* Changed ping images and scripts to use new ping server hostname
+* Fixed the userping badge opt-out to still use an image that will create a new userping session.	
 
 = 1.1.0 =
 * Added admin options
