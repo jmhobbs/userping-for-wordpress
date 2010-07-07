@@ -1,9 +1,9 @@
 === UserPing for WordPress ===
 Contributors: jmhobbs
 Tags: analytics, live analytics, statistics
-Requires at least: 2.0
+Requires at least: 2.7
 Tested up to: 3.0
-Stable tag: 1.0.0
+Stable tag: 1.1.0
 
 Adds UserPing to your WordPress site!
 
@@ -23,5 +23,10 @@ This section describes how to install the plugin and get it working.
 
 == Changelog ==
 
-= 1.0 =
+= 1.1.0 =
+* Added admin options
+* Added UserPing graphic tracking
+* Added logged-in admin opt-out
+
+= 1.0.0 =
 * First version.
